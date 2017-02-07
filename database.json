@@ -12,5 +12,11 @@
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "SimulatePhysics.groovy"
     ]
+  },
+  "BowlerStudioConfigs": {
+    "firstVersion": "0.20.0",
+    "skinBranch": "master",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.20.0"
   }
 }
